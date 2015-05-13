@@ -24,6 +24,10 @@ $> http://ecx.images-amazon.com/images/I/51IatU5xMjL.jpg
 $> 
 ```
 
+# DEPENDENCIES:
+
+- [Amazon Simple Product API](https://github.com/yoavaviram/python-amazon-simple-product-api)
+
 # SETUP:
 
 Edit the scripts to enter your respective keys at Affiliate Tags in the variables at the top of the `amazon-deal.py` or amazon-image.py scripts. The shell script is a simple Bash script used to execute the script on a remote server.
